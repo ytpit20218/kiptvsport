@@ -32,3 +32,5 @@ http://8.tcp.ngrok.io:16126/kiptvsport/eurosport1
 http://8.tcp.ngrok.io:16126/kiptvsport/directsport+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/ttusrw1445657002.png" group-title="KIPTV Sport", Setanta Sports 1
 http://8.tcp.ngrok.io:16126/kiptvsport/setanta1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F0%2F438%2Fsetanta-sports-2-2.png" group-title="KIPTV Sport", Setanta Sports 2
+http://8.tcp.ngrok.io:16126/kiptvsport/setanta2
