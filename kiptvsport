@@ -34,3 +34,7 @@ http://8.tcp.ngrok.io:16126/kiptvsport/directsport+
 http://8.tcp.ngrok.io:16126/kiptvsport/setanta1
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F0%2F438%2Fsetanta-sports-2-2.png" group-title="KIPTV Sport", Setanta Sports 2
 http://8.tcp.ngrok.io:16126/kiptvsport/setanta2
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="KIPTV Sport", DAZN 1
+http://8.tcp.ngrok.io:16126/kiptvsport/dazn1
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="KIPTV Sport", DAZN 2
+http://8.tcp.ngrok.io:16126/kiptvsport/dazn2
