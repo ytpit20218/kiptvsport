@@ -37,3 +37,5 @@ http://8.tcp.ngrok.io:16126/kiptvsport/setanta2
 http://8.tcp.ngrok.io:16126/kiptvsport/dazn1
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="KIPTV Sport", DAZN 2
 http://8.tcp.ngrok.io:16126/kiptvsport/dazn2
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets.cinepolisklic.com/cmsklicia/movieimages/claro-sports/poster_originalsize_250X375.jpg" group-title="KIPTV Sport", Claro Sports 1
+http://8.tcp.ngrok.io:16126/kiptvsport/claro1
