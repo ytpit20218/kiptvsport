@@ -30,3 +30,5 @@ http://8.tcp.ngrok.io:16126/kiptvsport/fox2
 http://8.tcp.ngrok.io:16126/kiptvsport/eurosport1
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.whitefriars.co.uk/wp-content/uploads/2017/09/sports-direct.png" group-title="KIPTV Sport", Direct Sport +
 http://8.tcp.ngrok.io:16126/kiptvsport/directsport+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/ttusrw1445657002.png" group-title="KIPTV Sport", Setanta Sports 1
+http://8.tcp.ngrok.io:16126/kiptvsport/setanta1
