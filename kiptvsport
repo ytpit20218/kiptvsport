@@ -18,8 +18,7 @@ http://8.tcp.ngrok.io:16126/kiptvsport/espn4
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png" group-title="KIPTV Sport", ESPN EXTRA
 http://8.tcp.ngrok.io:16126/kiptvsport/espnextra
 #EXTINF:-1 tvg-id="" tvg-logo="https://fast.ntvplus.tv/files/image/10/60/28/-channel!3d1.png" group-title="KIPTV Sport", Маtch TV
-http://2.cvmtv.site/matchtv
-#http://8.tcp.ngrok.io:16126/kiptvsport/match
+http://8.tcp.ngrok.io:16126/kiptvsport/match
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88-2019-11-12-1443463.png/revision/latest?cb=20200215064659" group-title="KIPTV Sport", Wowow Live
 http://8.tcp.ngrok.io:16126/kiptvsport/wowowlive
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="KIPTV Sport", Fox Sport 1
