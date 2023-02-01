@@ -39,3 +39,9 @@ http://8.tcp.ngrok.io:16126/kiptvsport/dazn1
 http://8.tcp.ngrok.io:16126/kiptvsport/dazn2
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets.cinepolisklic.com/cmsklicia/movieimages/claro-sports/poster_originalsize_250X375.jpg" group-title="KIPTV Sport", Claro Sports 1
 http://8.tcp.ngrok.io:16126/kiptvsport/claro1
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets.cinepolisklic.com/cmsklicia/movieimages/claro-sports/poster_originalsize_250X375.jpg" group-title="KIPTV Sport", Claro Sports 2
+http://8.tcp.ngrok.io:16126/kiptvsport/claro2
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="KIPTV Sport", M.Deportes
+http://8.tcp.ngrok.io:16126/kiptvsport/deportes
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="KIPTV Sport", Liga de Campeones por M+
+http://8.tcp.ngrok.io:16126/kiptvsport/ligacam
