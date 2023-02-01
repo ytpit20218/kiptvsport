@@ -3,6 +3,8 @@
 http://8.tcp.ngrok.io:16126/kiptvsport/kiptvlive1
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIPTV Sport", KIPTV Live 2
 http://8.tcp.ngrok.io:16126/kiptvsport/kiptvlive2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="KIPTV Sport", KIPTV Live 3
+http://8.tcp.ngrok.io:16126/kiptvsport/kiptvlive3
 #EXTINF:-1 tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-j-sports-1-1717.png" group-title="KIPTV Sport", J Sport 1
 http://8.tcp.ngrok.io:16126/kiptvsport/jsport1
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-169-400x400.png" group-title="KIPTV Sport", J Sport 2
