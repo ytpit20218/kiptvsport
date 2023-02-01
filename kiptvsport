@@ -48,4 +48,4 @@ http://8.tcp.ngrok.io:16126/kiptvsport/ligacam
 #EXTINF:-1 tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/46/232/png-clipart-abu-dhabi-sports-arab-club-championship-abu-dhabi-tv-television-channel-football-text-sport.png" group-title="KIPTV Sport", Abu Dhabi Sports
 http://8.tcp.ngrok.io:16126/kiptvsport/dhabi1
 #EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/520/846/png-transparent-abu-dhabi-sports-logo-abu-dhabi-tv-television-channel-marathon-event-television-text-logo.png" group-title="KIPTV Sport", Abu Dhabi Sports 2
-http://8.tcp.ngrok.io:16126/kiptvsport/
+http://8.tcp.ngrok.io:16126/kiptvsport/dhabi2
