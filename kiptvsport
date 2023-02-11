@@ -39,15 +39,15 @@ http://8.tcp.ngrok.io:16126/kiptvsport/setanta2
 http://8.tcp.ngrok.io:16126/kiptvsport/dazn1
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="KIPTV Sport", DAZN 2
 http://8.tcp.ngrok.io:16126/kiptvsport/dazn2
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets.cinepolisklic.com/cmsklicia/movieimages/claro-sports/poster_originalsize_250X375.jpg" group-title="KIPTV Sport", Claro Sports 1
-http://8.tcp.ngrok.io:16126/kiptvsport/claro1
-#EXTINF:-1 tvg-id="" tvg-logo="https://assets.cinepolisklic.com/cmsklicia/movieimages/claro-sports/poster_originalsize_250X375.jpg" group-title="KIPTV Sport", Claro Sports 2
-http://8.tcp.ngrok.io:16126/kiptvsport/claro2
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/1280px-Movistar_Deportes.svg.png" group-title="KIPTV Sport", M.Deportes
-http://8.tcp.ngrok.io:16126/kiptvsport/deportes
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="KIPTV Sport", Liga de Campeones por M+
-http://8.tcp.ngrok.io:16126/kiptvsport/ligacam
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/20/Digi_Sport_1_%282012-.n.v.%29.png/revision/latest?cb=20180919153840" group-title="KIPTV Sport", Digi Sport 1 HD
+http://8.tcp.ngrok.io:16126/kiptvsport/digi1
 #EXTINF:-1 tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/46/232/png-clipart-abu-dhabi-sports-arab-club-championship-abu-dhabi-tv-television-channel-football-text-sport.png" group-title="KIPTV Sport", Abu Dhabi Sports
 http://8.tcp.ngrok.io:16126/kiptvsport/dhabi1
 #EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/520/846/png-transparent-abu-dhabi-sports-logo-abu-dhabi-tv-television-channel-marathon-event-television-text-logo.png" group-title="KIPTV Sport", Abu Dhabi Sports 2
 http://8.tcp.ngrok.io:16126/kiptvsport/dhabi2
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/89m9a11649342703.png" group-title="KIPTV Sport", Orange Sport 1 HD
+http://8.tcp.ngrok.io:16126/kiptvsport/orange1
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmfPP2wNCFj0jLhiqzkMX9RE8yjaEQ9xGek-dx9pTaTgAHGmW3vGyYAoaf4EoQwpmc7f4&usqp=CAU" group-title="KIPTV Sport", Orange Sport 2 HD
+http://8.tcp.ngrok.io:16126/kiptvsport/orange2
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/nzikw81649342740.png" group-title="KIPTV Sport", Orange Sport 2 HD
+http://8.tcp.ngrok.io:16126/kiptvsport/orange3
