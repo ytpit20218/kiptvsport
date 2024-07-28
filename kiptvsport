@@ -68,3 +68,8 @@ http://23.99.122.106/olympic/euro1
 
 #EXTINF:18 group-title="test" tvg-id="test/olympiclive9mw" tvg-logo="" provider="test" provider-logo="" provider-type="iptv",Eurosport 2 Portugal
 http://23.99.122.106/olympic/euro2
+
+#EXTINF:18 group-title="test" tvg-id="test/olympiclive9mw" tvg-logo="" provider="test" provider-logo="" provider-type="iptv",TV Globo Brazil
+http://23.99.122.106/olympic/tvglobo
+
+
