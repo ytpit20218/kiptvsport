@@ -75,4 +75,14 @@ http://23.99.122.106/olympic/euro2
 #EXTINF:18 group-title="test" tvg-id="test/olympiclive9mw" tvg-logo="" provider="test" provider-logo="" provider-type="iptv",TV Globo Brazil
 http://23.99.122.106/olympic/tvglobo
 
+#EXTINF:1 group-title="mytvsuper" tvg-id="astro/astrooly1" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] MytvSuper OLY 1
+http://23.99.122.106:1234/stream/astro/astrooly1/master.m3u8?u=admin&p=8ab1d6a504add2c2378b6cf7ab9177c8b28b3554e8207d693b7d33f774ce37f8
 
+#EXTINF:2 group-title="mytvsuper" tvg-id="astro/mytvsuperoly2" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] MytvSuper OLY 2
+http://23.99.122.106:1234/stream/astro/mytvsuperoly2/master.m3u8?u=admin&p=8ab1d6a504add2c2378b6cf7ab9177c8b28b3554e8207d693b7d33f774ce37f8
+
+#EXTINF:3 group-title="mytvsuper" tvg-id="astro/mytvsuperoly3" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] MytvSuper OLY 3
+http://23.99.122.106:1234/stream/astro/mytvsuperoly3/master.m3u8?u=admin&p=8ab1d6a504add2c2378b6cf7ab9177c8b28b3554e8207d693b7d33f774ce37f8
+
+#EXTINF:4 group-title="mytvsuper" tvg-id="astro/mytvsuperoly4" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] MytvSuper OLY 4
+http://23.99.122.106:1234/stream/astro/mytvsuperoly4/master.m3u8?u=admin&p=8ab1d6a504add2c2378b6cf7ab9177c8b28b3554e8207d693b7d33f774ce37f8
