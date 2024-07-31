@@ -55,13 +55,16 @@ http://23.99.122.106:1234/stream/test/olympiclive8mw/master.m3u8?u=saohoa&p=08d9
 http://23.99.122.106:1234/stream/test/olympiclive9mw/master.m3u8?u=saohoa&p=08d9df0f27da17d5be82b2e094aac252e22dcf7d375f62aaf57dac7b48b6d590
 
 #EXTINF:18 group-title="test" tvg-id="test/olympiclive9mw" tvg-logo="" provider="test" provider-logo="" provider-type="iptv",Sporttv 1
-http://game.shiuk.re:80/538377576/365738813/604.ts
+http://23.99.122.106/olympic/spttv1
 
 #EXTINF:18 group-title="test" tvg-id="test/olympiclive9mw" tvg-logo="" provider="test" provider-logo="" provider-type="iptv",Sporttv 2
-http://game.shiuk.re:80/538377576/365738813/590.ts
+http://23.99.122.106/olympic/spttv2
 
 #EXTINF:18 group-title="test" tvg-id="test/olympiclive9mw" tvg-logo="" provider="test" provider-logo="" provider-type="iptv",Sporttv 3
-http://game.shiuk.re:80/538377576/365738813/595.ts
+http://23.99.122.106/olympic/spttv3
+
+#EXTINF:18 group-title="test" tvg-id="test/olympiclive9mw" tvg-logo="" provider="test" provider-logo="" provider-type="iptv",Sporttv 4
+http://23.99.122.106/olympic/spttv4
 
 #EXTINF:18 group-title="test" tvg-id="test/olympiclive9mw" tvg-logo="" provider="test" provider-logo="" provider-type="iptv",Eurosport 1 Italia
 http://23.99.122.106/olympic/euro1
