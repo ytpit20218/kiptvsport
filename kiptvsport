@@ -1,88 +1,22 @@
 #EXTM3U x-tvg-url=""
 
-#EXTINF:1 group-title="test" tvg-id="test/olympic1" tvg-logo="" provider="test" provider-logo="" provider-type="iptv",Mediacorp 5
-http://23.99.122.106:1234/stream/test/olympic1/master.m3u8?u=saohoa&p=08d9df0f27da17d5be82b2e094aac252e22dcf7d375f62aaf57dac7b48b6d590
-
-#EXTINF:2 group-title="test" tvg-id="test/olympiclive1mw" tvg-logo="" provider="test" provider-logo="" provider-type="iptv",Olympic Live 1 MW
-http://23.99.122.106:1234/stream/test/olympiclive1mw/master.m3u8?u=saohoa&p=08d9df0f27da17d5be82b2e094aac252e22dcf7d375f62aaf57dac7b48b6d590
-
-#EXTINF:3 group-title="test" tvg-id="test/olympiclive10mw" tvg-logo="" provider="test" provider-logo="" provider-type="iptv",Olympic Live 10 MW
-http://23.99.122.106:1234/stream/test/olympiclive10mw/master.m3u8?u=saohoa&p=08d9df0f27da17d5be82b2e094aac252e22dcf7d375f62aaf57dac7b48b6d590
-
-#EXTINF:4 group-title="test" tvg-id="test/olympiclive11mw" tvg-logo="" provider="test" provider-logo="" provider-type="iptv",Olympic Live 11 MW
-http://23.99.122.106:1234/stream/test/olympiclive11mw/master.m3u8?u=saohoa&p=08d9df0f27da17d5be82b2e094aac252e22dcf7d375f62aaf57dac7b48b6d590
-
-#EXTINF:5 group-title="test" tvg-id="test/olympiclive12mw" tvg-logo="" provider="test" provider-logo="" provider-type="iptv",Olympic Live 12 MW
-http://23.99.122.106:1234/stream/test/olympiclive12mw/master.m3u8?u=saohoa&p=08d9df0f27da17d5be82b2e094aac252e22dcf7d375f62aaf57dac7b48b6d590
-
-#EXTINF:6 group-title="test" tvg-id="test/olympiclive13mw" tvg-logo="" provider="test" provider-logo="" provider-type="iptv",Olympic Live 13 MW
-http://23.99.122.106:1234/stream/test/olympiclive13mw/master.m3u8?u=saohoa&p=08d9df0f27da17d5be82b2e094aac252e22dcf7d375f62aaf57dac7b48b6d590
-
-#EXTINF:7 group-title="test" tvg-id="test/olympiclive14mw" tvg-logo="" provider="test" provider-logo="" provider-type="iptv",Olympic Live 14 MW
-http://23.99.122.106:1234/stream/test/olympiclive14mw/master.m3u8?u=saohoa&p=08d9df0f27da17d5be82b2e094aac252e22dcf7d375f62aaf57dac7b48b6d590
-
-#EXTINF:8 group-title="test" tvg-id="test/olympiclive15mw" tvg-logo="" provider="test" provider-logo="" provider-type="iptv",Olympic Live 15 MW
-http://23.99.122.106:1234/stream/test/olympiclive15mw/master.m3u8?u=saohoa&p=08d9df0f27da17d5be82b2e094aac252e22dcf7d375f62aaf57dac7b48b6d590
-
-#EXTINF:9 group-title="test" tvg-id="test/olympiclive16mw" tvg-logo="" provider="test" provider-logo="" provider-type="iptv",Olympic Live 16 MW
-http://23.99.122.106:1234/stream/test/olympiclive16mw/master.m3u8?u=saohoa&p=08d9df0f27da17d5be82b2e094aac252e22dcf7d375f62aaf57dac7b48b6d590
-
-#EXTINF:10 group-title="test" tvg-id="test/olympiclive17mw" tvg-logo="" provider="test" provider-logo="" provider-type="iptv",Olympic Live 17 MW
-http://23.99.122.106:1234/stream/test/olympiclive17mw/master.m3u8?u=saohoa&p=08d9df0f27da17d5be82b2e094aac252e22dcf7d375f62aaf57dac7b48b6d590
-
-#EXTINF:11 group-title="test" tvg-id="test/olympiclive2mw" tvg-logo="" provider="test" provider-logo="" provider-type="iptv",Olympic Live 2 MW
-http://23.99.122.106:1234/stream/test/olympiclive2mw/master.m3u8?u=saohoa&p=08d9df0f27da17d5be82b2e094aac252e22dcf7d375f62aaf57dac7b48b6d590
-
-#EXTINF:12 group-title="test" tvg-id="test/olympiclive3mw" tvg-logo="" provider="test" provider-logo="" provider-type="iptv",Olympic Live 3 MW
-http://23.99.122.106:1234/stream/test/olympiclive3mw/master.m3u8?u=saohoa&p=08d9df0f27da17d5be82b2e094aac252e22dcf7d375f62aaf57dac7b48b6d590
-
-#EXTINF:13 group-title="test" tvg-id="test/olympiclive4mw" tvg-logo="" provider="test" provider-logo="" provider-type="iptv",Olympic Live 4 MW
-http://23.99.122.106:1234/stream/test/olympiclive4mw/master.m3u8?u=saohoa&p=08d9df0f27da17d5be82b2e094aac252e22dcf7d375f62aaf57dac7b48b6d590
-
-#EXTINF:14 group-title="test" tvg-id="test/olympiclive5mw" tvg-logo="" provider="test" provider-logo="" provider-type="iptv",Olympic Live 5 MW
-http://23.99.122.106:1234/stream/test/olympiclive5mw/master.m3u8?u=saohoa&p=08d9df0f27da17d5be82b2e094aac252e22dcf7d375f62aaf57dac7b48b6d590
-
-#EXTINF:15 group-title="test" tvg-id="test/olympiclive6mw" tvg-logo="" provider="test" provider-logo="" provider-type="iptv",Olympic Live 6 MW
-http://23.99.122.106:1234/stream/test/olympiclive6mw/master.m3u8?u=saohoa&p=08d9df0f27da17d5be82b2e094aac252e22dcf7d375f62aaf57dac7b48b6d590
-
-#EXTINF:16 group-title="test" tvg-id="test/olympiclive7mw" tvg-logo="" provider="test" provider-logo="" provider-type="iptv",Olympic Live 7 MW
-http://23.99.122.106:1234/stream/test/olympiclive7mw/master.m3u8?u=saohoa&p=08d9df0f27da17d5be82b2e094aac252e22dcf7d375f62aaf57dac7b48b6d590
-
-#EXTINF:17 group-title="test" tvg-id="test/olympiclive8mw" tvg-logo="" provider="test" provider-logo="" provider-type="iptv",Olympic Live 8 MW
-http://23.99.122.106:1234/stream/test/olympiclive8mw/master.m3u8?u=saohoa&p=08d9df0f27da17d5be82b2e094aac252e22dcf7d375f62aaf57dac7b48b6d590
-
-#EXTINF:18 group-title="test" tvg-id="test/olympiclive9mw" tvg-logo="" provider="test" provider-logo="" provider-type="iptv",Olympic Live 9 MW
-http://23.99.122.106:1234/stream/test/olympiclive9mw/master.m3u8?u=saohoa&p=08d9df0f27da17d5be82b2e094aac252e22dcf7d375f62aaf57dac7b48b6d590
-
 #EXTINF:18 group-title="test" tvg-id="test/olympiclive9mw" tvg-logo="" provider="test" provider-logo="" provider-type="iptv",Sporttv 1
-http://23.99.122.106/olympic/spttv1
+http://each-implement.gl.at.ply.gg:47169/olympic/sporttv1
 
 #EXTINF:18 group-title="test" tvg-id="test/olympiclive9mw" tvg-logo="" provider="test" provider-logo="" provider-type="iptv",Sporttv 2
-http://23.99.122.106/olympic/spttv2
+http://each-implement.gl.at.ply.gg:47169/olympic/sporttv2
 
 #EXTINF:18 group-title="test" tvg-id="test/olympiclive9mw" tvg-logo="" provider="test" provider-logo="" provider-type="iptv",Sporttv 3
-http://23.99.122.106/olympic/spttv3
+http://each-implement.gl.at.ply.gg:47169/olympic/sporttv3
 
 #EXTINF:18 group-title="test" tvg-id="test/olympiclive9mw" tvg-logo="" provider="test" provider-logo="" provider-type="iptv",Sporttv 4
-http://23.99.122.106/olympic/spttv4
+http://each-implement.gl.at.ply.gg:47169/olympic/sporttv4
 
 #EXTINF:18 group-title="test" tvg-id="test/olympiclive9mw" tvg-logo="" provider="test" provider-logo="" provider-type="iptv",Eurosport 1 Italia
-http://23.99.122.106/olympic/euro1
+http://each-implement.gl.at.ply.gg:47169/olympic/euro1
 
 #EXTINF:18 group-title="test" tvg-id="test/olympiclive9mw" tvg-logo="" provider="test" provider-logo="" provider-type="iptv",Eurosport 2 Portugal
-http://23.99.122.106/olympic/euro2
+http://each-implement.gl.at.ply.gg:47169/olympic/euro2
 
 #EXTINF:18 group-title="test" tvg-id="test/olympiclive9mw" tvg-logo="" provider="test" provider-logo="" provider-type="iptv",TV Globo Brazil
-http://23.99.122.106/olympic/tvglobo
-
-#EXTINF:1 group-title="mytvsuper" tvg-id="astro/astrooly1" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] MytvSuper OLY 1
-http://23.99.122.106:1234/stream/astro/astrooly1/master.m3u8?u=admin&p=8ab1d6a504add2c2378b6cf7ab9177c8b28b3554e8207d693b7d33f774ce37f8
-
-#EXTINF:2 group-title="mytvsuper" tvg-id="astro/mytvsuperoly2" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] MytvSuper OLY 2
-http://23.99.122.106:1234/stream/astro/mytvsuperoly2/master.m3u8?u=admin&p=8ab1d6a504add2c2378b6cf7ab9177c8b28b3554e8207d693b7d33f774ce37f8
-
-#EXTINF:3 group-title="mytvsuper" tvg-id="astro/mytvsuperoly3" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] MytvSuper OLY 3
-http://23.99.122.106:1234/stream/astro/mytvsuperoly3/master.m3u8?u=admin&p=8ab1d6a504add2c2378b6cf7ab9177c8b28b3554e8207d693b7d33f774ce37f8
-
-#EXTINF:4 group-title="mytvsuper" tvg-id="astro/mytvsuperoly4" tvg-logo="" provider="mytvsuper" provider-logo="" provider-type="iptv",[mytvsuper] MytvSuper OLY 4
-http://23.99.122.106:1234/stream/astro/mytvsuperoly4/master.m3u8?u=admin&p=8ab1d6a504add2c2378b6cf7ab9177c8b28b3554e8207d693b7d33f774ce37f8
+http://each-implement.gl.at.ply.gg:47169/olympic/tvglobo
